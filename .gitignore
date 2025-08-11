@@ -1,0 +1,19 @@
+# Arquivos temporários do macOS
+.DS_Store
+
+# Lixo de sistema
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Logs
+*.log
+
+# Cache de editores
+.vscode/
+.idea/
+
+# Arquivos temporários de build
+dist/
+node_modules/
